@@ -1,0 +1,6 @@
+Name, Brand, Quantity_Available, Rate_per_tablet, Rate_per_strip, Tablet_per_strip 
+Paracetamol 500mg,Lomus,514, 5, 45, 10
+Cetirizine 10mg,Quest,844, 4, 35, 12
+Amoxicillin 500mg,Nepal Remedies,578, 12, 110, 15
+Pantoprazole 40mg,Deurali-Janta,443, 7, 60, 8
+ORS Sachet,Time Pharma,1004, 20, 180, 12 
