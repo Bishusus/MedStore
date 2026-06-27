@@ -75,7 +75,7 @@ medstore/
 ### Installation
 
 1. Clone the repository:
-```bash
+```
 git clone https://github.com/Bishusus/medstore.git
 cd medstore
 ```
@@ -83,7 +83,7 @@ cd medstore
 2. Ensure you have Python 3.x installed
 
 3. Run the application:
-```bash
+```
 python main.py
 ```
 
